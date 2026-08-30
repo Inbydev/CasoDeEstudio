@@ -34,7 +34,7 @@ Si desea ejecutar esta implementación desde este IDE, primero debes abrir Intel
 
 Luego de esto, clickear en abrir y seleccionar carpeta donde extrajo el proyecto clonado y abra la carpeta `src/main/kotlin/dev/ia/caso` y abrir archivo `Funcional.kt`.
 
-Luego de estar dentro de este archivo, clickear el botón verde con icono de flechita verde que se encuentra en la esquina superior derecha para ejecutar el código con el paradigma Funcional.
+Luego de estar dentro de este archivo, esperar hasta que se sincronice el proyecto (en la barra izquierda hay un icono de martillo y al darle click se mostrará el proceso de sincronización). Una vez finalizado, podrá clickear el botón verde con icono de flecha verde que se encuentra en la esquina superior derecha para ejecutar el código con el paradigma Funcional.
 
 ## Instrucciones de Ejecución desde terminal
 

@@ -2,6 +2,8 @@
 
 ## Gemini
 
+Se utilizó la IA para consultar sobre las ventajas y limitaciones del paradigma de programación funcional, sin aplicarlo al caso de estudio [link 1](https://share.gemini.google/WMEhmtelcKDx)
+
 ## Claude
 
 1. Generación de código de partida para versión Funcional para tener una mejor visualización de que es la programación funcional: [link 1](https://claude.ai/share/1fd837f6-3e85-4700-aa5f-06de86154746)

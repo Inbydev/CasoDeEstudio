@@ -2,7 +2,13 @@
 
 ## Gemini
 
-Se utilizó la IA para consultar sobre las ventajas y limitaciones del paradigma de programación funcional, sin aplicarlo al caso de estudio [link 1](https://share.gemini.google/WMEhmtelcKDx)
+1. Se utilizó la IA para consultar sobre las ventajas y limitaciones del paradigma de programación funcional, sin aplicarlo al caso de estudio: [link 1](https://share.gemini.google/WMEhmtelcKDx)
+
+2. Revisión de ficha con rúbrica: [link 2](https://chatgpt.com/share/6a948d00-46e8-83e9-866f-7ce4de59818b)
+
+3. Se utilizó la IA para consultar sobre las ventajas y limitaciones del paradigma de programación funcional, pero NO aplicado al caso de estudio: [link 3](https://share.gemini.google/WMEhmtelcKDx)
+
+4. Se utilizó la IA para consultar acerca del formato APA 7, traducción de párrafos para poder citar correctamente [link 4](https://share.gemini.google/EgfsA0Zr8h53)
 
 ## Claude
 

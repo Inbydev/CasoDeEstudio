@@ -30,7 +30,7 @@ Una vez descargado, extraer este archivo y continue con las siguientes instrucci
 
 ## Instrucciones de Ejecución desde IntelliJ IDEA
 
-Si desea ejecutar esta implementación desde este IDE, primero debes abrir IntelliJ IDEA; si tiene algún proyecto abierto, darle a las tres barras que se ubica en la esquina superior izquierda y luego darle a cerrar proyecto.
+Si desea ejecutar esta implementación desde este IDE, primero debes abrir IntelliJ IDEA; si tiene algún proyecto abierto, darle a las cuatro barras que se ubica en la esquina superior izquierda y luego darle a cerrar proyecto.
 
 Luego de esto, clickear en abrir y seleccionar carpeta donde extrajo el proyecto clonado y abra la carpeta `src/main/kotlin/dev/ia/caso` y abrir archivo `Funcional.kt`.
 

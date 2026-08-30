@@ -10,7 +10,7 @@ Este proyecto es una demostración de programación funcional en Kotlin, enfocad
 > Para Windows: https://www.youtube.com/watch?v=9gXXH-rPKU4
 
 > [!NOTE]
-> Para Linux: [java-21-para-linux](docs/java-21-para-linux.md
+> Para Linux: [java-21-para-linux](docs/java-21-para-linux.md)
 
 ### Verificación de Instalación
 

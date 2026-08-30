@@ -1,4 +1,4 @@
-package dev.patata.caso
+package dev.ia.caso
 
 //Asistido por IA
 
@@ -153,10 +153,7 @@ fun generarInforme(estado: EstadoSistema): String = buildString {
     }
 }
 
-// ---------------------------------------------------------------------
 // Demostración
-// ---------------------------------------------------------------------
-
 fun main() {
     val catalogo = listOf(
         Sala("Sala A", capacidad = 4, equipamiento = setOf("pizarra")),

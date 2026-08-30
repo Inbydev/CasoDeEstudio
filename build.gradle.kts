@@ -8,7 +8,7 @@ repositories {
 }
 
 application {
-    mainClass.set("dev.patata.caso.FuncionalKt")
+    mainClass.set("dev.ia.caso.FuncionalKt")
 }
 
 tasks.named<JavaExec>("run") {
@@ -21,7 +21,7 @@ tasks.register<JavaExec>("runFun") {
     group = "application"
     description = "Ejecuta la versión Funcional"
     classpath = sourceSets["main"].runtimeClasspath
-    mainClass.set("dev.patata.caso.FuncionalKt")
+    mainClass.set("dev.ia.caso.FuncionalKt")
     standardInput = System.`in`
 }
 
@@ -30,6 +30,6 @@ tasks.register<JavaExec>("runPoo") {
     group = "application"
     description = "Ejecuta la versión Orientada a Objetos (POO)"
     classpath = sourceSets["main"].runtimeClasspath
-    mainClass.set("dev.patata.caso.poo.POOKt")
+    mainClass.set("dev.ia.caso.poo.POOKt")
     standardInput = System.`in`
 }

@@ -2,15 +2,10 @@
 
 ## Gemini
 
-1. Consulta si el documento cumple con la rúbrica: https://share.gemini.google/WMEhmtelcKDx
-
-2. Revisión de ficha con rúbrica: https://chatgpt.com/share/6a948d00-46e8-83e9-866f-7ce4de59818b
-
-3. Consulta sobre las ventajas y limitaciones del paradigma de programación funcional, pero NO aplicado al caso de estudio: https://share.gemini.google/WMEhmtelcKDx
-
-4. Consulta acerca del formato APA 7, traducción de párrafos para poder citar correctamente https://share.gemini.google/EgfsA0Zr8h53
-
-5. Explicación del cálculo lambda https://share.gemini.google/kiB0ZYace4X5
+1. Consulta si el documento cumple con la rúbrica: https://share.gemini.google/REZl97ONLWLK
+2. Consulta sobre las ventajas y limitaciones del paradigma de programación funcional, pero NO aplicado al caso de estudio: https://share.gemini.google/WMEhmtelcKDx
+3. Consulta acerca del formato APA 7, traducción de párrafos para poder citar correctamente: https://share.gemini.google/EgfsA0Zr8h53
+4. Explicación del cálculo lambda: https://share.gemini.google/kiB0ZYace4X5
 
 ## Claude
 

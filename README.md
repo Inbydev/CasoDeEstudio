@@ -32,7 +32,7 @@ Una vez descargado, extraer este archivo y continue con las siguientes instrucci
 
 Si desea ejecutar esta implementación desde este IDE, primero debes abrir IntelliJ IDEA; si tiene algún proyecto abierto, darle a las tres barras que se ubica en la esquina superior izquierda y luego darle a cerrar proyecto.
 
-Luego de esto, clickear en abrir y seleccionar carpeta donde extrajo el proyecto clonado y abra la carpeta src/main/kotlin/dev/ia/caso y abrir archivo Funcional.kt.
+Luego de esto, clickear en abrir y seleccionar carpeta donde extrajo el proyecto clonado y abra la carpeta `src/main/kotlin/dev/ia/caso` y abrir archivo `Funcional.kt`.
 
 Luego de estar dentro de este archivo, clickear el botón verde con icono de flechita verde que se encuentra en la esquina superior derecha para ejecutar el código con el paradigma Funcional.
 
@@ -61,11 +61,11 @@ chmod +x gradlew
 
 ## Ubicación de archivos
 
-El código funcional que se encuentra en `src/main/kotlin/dev/patata/caso/Funcional.kt` mientras que su contraparte orientada a objetos se encuentra en `src/main/kotlin/dev/patata/caso/POO.kt` para posteriormente compararlas adecuadamente.
+El código funcional que se encuentra en `src/main/kotlin/dev/ia/caso/poo/Funcional.kt` mientras que su contraparte orientada a objetos se encuentra en `src/main/kotlin/dev/ia/caso/POO.kt` para posteriormente compararlas adecuadamente.
 
 ## Conceptos Clave Demostrados
 
-El código funcional (que se encuentra en `src/main/kotlin/dev/patata/caso/Funcional.kt`) ilustra las siguientes prácticas:
+El código funcional (que se encuentra en `src/main/kotlin/dev/ia/caso/Funcional.kt`) ilustra las siguientes prácticas:
 
 1. **Modelos Inmutables**: Utiliza `data class` para definir entidades (`Sala`, `Solicitud`, `Asignacion`, `Rechazo`, `EstadoSistema`) y evitar la mutación de estado. Cuando cambia el sistema, se crean nuevas instancias usando el método `.copy()` (por ejemplo, en lugar de `lista.add(...)` se hace `asignaciones + nuevaAsignacion`).
 2. **Funciones Puras**: Funciones de validación como `cumpleCapacidad`, `cumpleEquipamiento`, `estaOcupada` y `salaValidaPara` dependen enteramente de los parámetros de entrada y no tienen efectos secundarios.

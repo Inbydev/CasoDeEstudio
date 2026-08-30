@@ -49,7 +49,7 @@ y luego dependiendo de su sistema operativo, ejecute el siguiente comando para e
 **En Windows:**
 
 ```bat
-gradlew.bat run
+.\gradlew.bat run
 ```
 
 **En Linux y macOS:**

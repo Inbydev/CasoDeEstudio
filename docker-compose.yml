@@ -1,0 +1,4 @@
+services:
+    caso-de-estudio:
+        container_name: caso-de-estudio
+        image: caso-de-estudio:0.1.0-amd64

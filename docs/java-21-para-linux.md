@@ -14,7 +14,7 @@ sudo apt update && sudo apt install openjdk-21-jdk -y
 sudo dnf install java-21-openjdk-devel -y
 ```
 
-## Arch Linux / Manjaro
+## Arch Linux / Artix Linux / Manjaro
 
 ```bash
 sudo pacman -S jdk21-openjdk

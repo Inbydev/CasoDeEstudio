@@ -7,7 +7,7 @@ Este proyecto es una demostración de programación funcional en Kotlin, enfocad
 - Tener **Java JDK 21** o superior instalado en el sistema.
 
 > [!NOTE]
-> Para Windows: https://www.youtube.com/watch?v=9gXXH-rPKU4
+> Para Windows: [Tutorial YouTube](https://www.youtube.com/watch?v=9gXXH-rPKU4)
 
 > [!NOTE]
 > Para Linux: [java-21-para-linux](docs/java-21-para-linux.md)

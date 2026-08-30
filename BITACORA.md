@@ -2,15 +2,15 @@
 
 ## Gemini
 
-1. Se utilizó la IA para consultar sobre las ventajas y limitaciones del paradigma de programación funcional, sin aplicarlo al caso de estudio: https://share.gemini.google/WMEhmtelcKDx
+1. Consulta si el documento cumple con la rúbrica: https://share.gemini.google/WMEhmtelcKDx
 
 2. Revisión de ficha con rúbrica: https://chatgpt.com/share/6a948d00-46e8-83e9-866f-7ce4de59818b
 
-3. Se utilizó la IA para consultar sobre las ventajas y limitaciones del paradigma de programación funcional, pero NO aplicado al caso de estudio: https://share.gemini.google/WMEhmtelcKDx
+3. Consulta sobre las ventajas y limitaciones del paradigma de programación funcional, pero NO aplicado al caso de estudio: https://share.gemini.google/WMEhmtelcKDx
 
-4. Se utilizó la IA para consultar acerca del formato APA 7, traducción de párrafos para poder citar correctamente https://share.gemini.google/EgfsA0Zr8h53
+4. Consulta acerca del formato APA 7, traducción de párrafos para poder citar correctamente https://share.gemini.google/EgfsA0Zr8h53
 
-5. Se utilizó la IA para la explicación del cálculo lambda https://share.gemini.google/kiB0ZYace4X5
+5. Explicación del cálculo lambda https://share.gemini.google/kiB0ZYace4X5
 
 ## Claude
 

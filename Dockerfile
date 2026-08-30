@@ -10,7 +10,7 @@ COPY gradle ./gradle
 COPY build.gradle.kts settings.gradle.kts ./
 
 # Copiamos el código fuente
-COPY src ./src
+COPY src/main/kotlin/dev/ia/caso/Funcional.kt ./src/main/kotlin/dev/ia/caso/
 
 # Damos permisos de ejecución al wrapper de Gradle
 RUN chmod +x gradlew
